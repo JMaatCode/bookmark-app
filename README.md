@@ -1,8 +1,7 @@
 书签收藏页。纯AI制作，不敲一行代码~
 
-![](https://files.mdnice.com/user/45962/081951a1-8f3b-4812-9ee1-8e5324cc9f6d.png)
+![](https://files.mdnice.com/user/45962/ffb3d392-0583-4be8-a9a7-56cb1fd08823.png)
 
-![](https://files.mdnice.com/user/45962/c0b4c0c3-7a50-4b44-90c5-434640eec72d.png)
 
 # 预备
 
