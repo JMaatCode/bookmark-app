@@ -36,7 +36,7 @@
 
       <el-row :gutter="30" class="bookmark-grid">
         <el-col 
-          :xl="8" 
+          :xl="12" 
           :lg="12" 
           :md="12" 
           :sm="24" 
